@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anthing I can
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about my favorite movies
-- 📫 How to reach me: [Marcus McNeil] (https://github.com/Marco-Senpai)
+- 📫 How to reach me: [Marcus McNeil](https://github.com/Marco-Senpai)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak a little Japanese
 
