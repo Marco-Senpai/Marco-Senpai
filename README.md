@@ -1,4 +1,4 @@
-### Konnichi Wa I'm Marcus!
+### Konnichi Wa! Watashi no namae wa Marcus desu!
 
 
 - 🔭 I’m currently working on a coding assignment for Code School
