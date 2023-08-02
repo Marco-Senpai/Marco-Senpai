@@ -1,10 +1,10 @@
 ### Konnichi Wa! Watashi no namae wa Marcus desu!
 
 
-- 🔭 I’m currently working on a coding assignment for Code School
-- 🌱 I’m currently learning Markdown and Github basics
-- 👯 I’m looking to collaborate on anthing I can
-- 🤔 I’m looking for help with Java
+- 🔭 I’m currently enrolled in Tech901 for Web Programming
+- 🌱 I’m learning JavaScript and React
+- 👯 I’m interested in collaborating on web applications
+- 🤔 I’m looking for help with APIs
 - 💬 Ask me about my favorite movies
 - 📫 How to reach me: [Marcus McNeil](https://github.com/Marco-Senpai)
 - 😄 Pronouns: He/Him
